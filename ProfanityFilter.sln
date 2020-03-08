@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfanityFilter.Core", "ProfanityFilter.Core\ProfanityFilter.Core.csproj", "{4229982B-BC0F-44BC-9244-64C273124380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfanityFilter.UnitTest", "ProfanityFilter.UnitTest\ProfanityFilter.UnitTest.csproj", "{44A72348-975C-4B43-A126-852E8EC41D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4229982B-BC0F-44BC-9244-64C273124380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4229982B-BC0F-44BC-9244-64C273124380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4229982B-BC0F-44BC-9244-64C273124380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4229982B-BC0F-44BC-9244-64C273124380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A72348-975C-4B43-A126-852E8EC41D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A72348-975C-4B43-A126-852E8EC41D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A72348-975C-4B43-A126-852E8EC41D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A72348-975C-4B43-A126-852E8EC41D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B34C80D-C305-466D-AEBD-DC88A8A0E854}
+	EndGlobalSection
+EndGlobal
